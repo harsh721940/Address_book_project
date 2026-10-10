@@ -1,0 +1,1 @@
+void populateAddressBook(AddressBook* addressBook);
